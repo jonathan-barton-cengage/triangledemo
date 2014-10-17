@@ -7,3 +7,5 @@ Fourth line: master
 Fifth Line
 Sixth line.
 Thu Oct 16 21:06 Testing testing testing
+Chain of Command Part 1
+Quality of Life
